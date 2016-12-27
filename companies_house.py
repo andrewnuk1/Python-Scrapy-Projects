@@ -1,5 +1,6 @@
 import scrapy
 import re
+import sys
 
 from CompaniesHouse.items import CompanieshouseItem
 
