@@ -1,6 +1,6 @@
 # Python-Scrapy-Projects
 
-A home for the Scrapy code i am working on
+A home for samples of the Scrapy code i am working on
 
 They all follow the normal scrapy folder convention Projectname / Projectname / spiders
 The second folder contains items.py, pipelines.py an settings.py (these are almost all standard and so not included here)
